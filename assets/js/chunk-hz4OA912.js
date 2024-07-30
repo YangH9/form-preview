@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as n,a as o}from"./index-CP-Ktxr0.js";const a={},r={viewBox:"0 0 1740 1024",xmlns:"http://www.w3.org/2000/svg"},e=[o("path",{d:"M0 0v1024h1740.8V0H0z m1638.4 921.6H102.4V102.4h1536v819.2zM307.2 716.8H204.8V307.2h102.4v409.6z"},null,-1)];const v=s(a,[["render",function(s,o){return t(),n("svg",r,e)}]]);export{v as default};
