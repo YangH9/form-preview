@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as n,a as o}from"./index-fIc6MASG.js";const a={},r={viewBox:"0 0 1024 1024",xmlns:"http://www.w3.org/2000/svg"},e=[o("path",{d:"M32 464h960V576H32z"},null,-1)];const w=s(a,[["render",function(s,o){return t(),n("svg",r,e)}]]);export{w as default};
